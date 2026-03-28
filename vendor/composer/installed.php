@@ -3,7 +3,7 @@
         'name' => 't/nginx-lab-4',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '50a80daac00af976aeda198a01bdeaad3d50ed13',
+        'reference' => 'fd360a24f7c95d38693fea0b97573e772c287c4c',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -319,7 +319,7 @@
         't/nginx-lab-4' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '50a80daac00af976aeda198a01bdeaad3d50ed13',
+            'reference' => 'fd360a24f7c95d38693fea0b97573e772c287c4c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
